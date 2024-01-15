@@ -1,3 +1,4 @@
+Workflow of the website: After clicking the sign-in button without entering credentials you will be directed to the Main page of the Hotel Website
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
